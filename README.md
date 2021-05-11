@@ -44,5 +44,11 @@ Can check the appointment and add fees and discharge and can generate the invoic
 ![invoice](https://user-images.githubusercontent.com/82833518/117775589-46d28500-b258-11eb-9cdd-d1048db025d3.JPG)
 ![patient dashboard](https://user-images.githubusercontent.com/82833518/117775593-476b1b80-b258-11eb-9313-410c0ba49406.JPG)
 
+## Disclaimer
+This project is developed for demo purpose and it's not supposed to be used in real application.
+
+## Feedback
+Any suggestion and feedback is welcome. You can main me on codewithvishal41@gmail.com
+
 
 
