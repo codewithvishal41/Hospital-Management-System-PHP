@@ -39,11 +39,7 @@ Patient
 ![book appoinment](https://user-images.githubusercontent.com/82833518/117773420-e8a4a280-b255-11eb-8f50-cd586cf804b2.JPG)
 ![invoice](https://user-images.githubusercontent.com/82833518/117773443-f0644700-b255-11eb-97ec-e6edd8fa86c2.JPG)
 
-Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
 
-Feedback
-Any suggestion and feedback is welcome. You can main me on codewithvishal41@gmail.com
 
 
 
