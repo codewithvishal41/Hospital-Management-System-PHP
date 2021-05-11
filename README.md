@@ -48,7 +48,7 @@ Can check the appointment and add fees and discharge and can generate the invoic
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Feedback
-Any suggestion and feedback is welcome. You can main me on codewithvishal41@gmail.com
+Any suggestion and feedback is welcome. You can mail me on codewithvishal41@gmail.com
 
 
 
